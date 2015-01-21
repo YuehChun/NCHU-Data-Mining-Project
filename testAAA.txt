@@ -1,0 +1,2586 @@
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>v201r</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="Microsoft Theme" content="none, default">
+</head>
+
+<body>
+
+<p align="center">
+
+<p align="center">
+
+  <strong>
+  <font size="4" color="#FF0000">
+  〔市場合計〕產品</font><font size="4" color="#000080">日</font><font size="4" color="#FF0000">行情比較統計</font>查詢結果</strong> 
+  <div align="left"> 
+  <table border="6" width="100%"> 
+    <tr> 
+      <td width="28%"><strong>本期:<font color="#0000FF">103年12月01日</font></strong></td> 
+    </tr> 
+    <tr> 
+      <td width="28%"><strong>上期:<font color="#0000FF">103年12月03日</font></strong></td> 
+    </tr> 
+  </table> 
+  </div>
+  <div align="left"> 
+  <table border="3" width="100%"> 
+    <tr> 
+      <td width="10%" align="center" rowspan="2"><font color="#800000">產品<br>名稱</font></td> 
+      <td width="10%" align="center" rowspan="2"><font color="#800000">品種<br>名稱</font></td> 
+      <td width="34%" align="center" colspan="4" bgcolor="#CCFFFF"><font color="#800000">平均價(元/公斤)</font></td> 
+      <td width="46%" align="center" colspan="4" bgcolor="#FFFFCC"><font color="#800000">交易量(公斤)</font></td> 
+    </tr> 
+    <tr> 
+      <td width="8%" align="center" bgcolor="#CCFFFF"><font color="#800000">本期</font></td> 
+      <td width="8%" align="center" bgcolor="#CCFFFF"><font color="#800000">上期</font></td> 
+      <td width="8%" align="center" bgcolor="#CCFFFF"><font color="#800000">價差</font></td> 
+      <td width="10%" align="center" bgcolor="#CCFFFF"><font color="#800000">增減%</font></td> 
+      <td width="12%" align="center" bgcolor="#FFFFCC"><font color="#800000">本期</font></td> 
+      <td width="12%" align="center" bgcolor="#FFFFCC"><font color="#800000">上期</font></td> 
+      <td width="12%" align="center" bgcolor="#FFFFCC"><font color="#800000">量差</font></td> 
+      <td width="10%" align="center" bgcolor="#FFFFCC"><font color="#800000">增減%</font></td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">其他花類&nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">90.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-90.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">50.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-50.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">黃秋葵  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">31.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-31.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">4003.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-4003.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">花椰菜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">19.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-6.7</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -25.53
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">70464.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">116195.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-45731.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -39.36
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">胡瓜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">14.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">13.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">0.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      6.85
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">21736.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">73423.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-51687.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -70.40
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">花胡瓜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">23.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">23.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-0.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -0.81
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">31474.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">69716.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-38242.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -54.85
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">冬瓜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">9.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">8.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">0.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      5.18
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">11992.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">29311.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-17319.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -59.09
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">絲瓜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">19.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">21.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-2.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -10.96
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">25942.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">61853.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-35911.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -58.06
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">苦瓜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">31.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">25.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">6.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      26.28
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">21680.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">80244.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-58564.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -72.98
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">扁蒲    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">12.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">11.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">1.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      8.80
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">12184.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">24482.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-12298.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -50.23
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">茄子    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">16.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">16.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">0.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      3.25
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">19293.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">67691.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-48398.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -71.50
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">番茄    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">19.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">24.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-4.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -17.77
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">27252.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">147012.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-119760.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -81.46
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">甜椒    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">21.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">31.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-10.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -34.12
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">12758.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">51296.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-38537.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -75.13
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">豌豆    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">66.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">65.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">1.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      1.78
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2676.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">19317.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-16641.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -86.14
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">菜豆    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">46.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">44.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">1.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      3.36
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2571.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">6241.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-3670.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -58.80
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">敏豆    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">50.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">43.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">6.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      14.26
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">13542.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">50876.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-37334.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -73.38
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">萊豆    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">63.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-63.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2864.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-2864.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">毛豆    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">78.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-78.8</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1702.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1702.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">青花苔  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">10.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">22.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-12.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -54.02
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">40962.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">101407.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-60445.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -59.61
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">越瓜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">45.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-45.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">120.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-120.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">南瓜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">9.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">13.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-3.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -27.71
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3280.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">75904.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-72624.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -95.68
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">準人瓜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">41.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-41.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">8063.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-8063.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">石蓮花  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-26.8</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">330.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-330.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">辣椒    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">68.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">46.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">21.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      44.97
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3025.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">15809.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-12783.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -80.86
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">金針花  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">250.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-250.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">20.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-20.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">洛神花  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">35.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-35.7</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1332.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1332.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">花豆    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-26.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">27.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-27.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">虎豆    &nbsp</td> 
+      <td width="10%">福豆&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">55.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">51.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">3.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      6.89
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">296.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1901.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1605.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -84.43
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">玉米    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">13.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">18.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-5.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -29.81
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">44652.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">130309.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-85657.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -65.73
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">落花生  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">54.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">50.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">3.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      6.62
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">23.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">4605.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-4582.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -99.50
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">甘藍    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">9.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">12.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-2.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -22.56
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">273453.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">572331.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-298878.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -52.22
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">小白菜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">20.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-6.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -23.51
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">18719.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">58629.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-39910.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -68.07
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">包心白  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">5.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">8.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-2.8</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -32.27
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">135687.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">313780.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-178093.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -56.76
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">青江白菜&nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">19.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">30.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-10.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -35.77
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">17930.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">39937.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-22007.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -55.10
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">皇宮菜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">33.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-33.7</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1759.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1759.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">蕹菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">31.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">30.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">0.7</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      2.30
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">11302.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">36240.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-24938.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -68.81
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">芹菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">29.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">28.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">1.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      5.14
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">13458.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">58445.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-44987.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -76.97
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">菠菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">17.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">28.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-11.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -39.78
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">34668.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">72059.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-37391.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -51.89
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">萵苣菜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">30.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">27.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">3.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      11.13
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">5364.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">76368.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-71004.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -92.98
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">芥菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">15.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">19.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-4.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -22.66
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">15509.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">46388.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-30879.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -66.57
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">芥藍菜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">25.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">36.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-11.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -31.43
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">7659.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">19149.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-11490.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -60.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">茼蒿    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">30.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-4.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -13.77
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">12592.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">41529.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-28937.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -69.68
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">莧菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">41.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">34.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">6.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      17.63
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">5224.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">11007.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-5783.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -52.54
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">油菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">18.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">24.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-5.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -22.99
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">10056.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">29556.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-19500.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -65.98
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">甘薯葉  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">23.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-23.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">25807.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-25807.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">芫荽    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">33.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">36.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-3.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -8.78
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">16.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">4952.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-4936.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -99.68
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">九層塔  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">25.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-25.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">5289.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-5289.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">紅鳳菜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">27.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">35.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-8.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -22.59
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">174.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3711.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-3537.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -95.30
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">茴香    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">36.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">33.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">2.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      8.47
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2240.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3845.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1605.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -41.74
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">海菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">32.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-32.8</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1166.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1166.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">水蓮    &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">51.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-51.7</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1909.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1909.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">巴西利  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">147.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-147.7</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">263.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-263.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">蕨菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">24.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">64.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-39.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -61.32
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">129.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2272.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-2143.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -94.32
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">西洋菜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">20.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-20.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">100.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-100.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">薺菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">34.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-34.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">254.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-254.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">洋菇    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">111.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-111.8</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1558.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1558.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">草菇    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">89.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-89.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">337.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-337.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">木耳    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">66.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-66.7</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3359.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-3359.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">香菇    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">120.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-120.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">4227.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-4227.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">金絲菇  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">57.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-57.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">10484.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-10484.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">蠔菇    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">70.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-70.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">525.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-525.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">白菇    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">86.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-86.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">42.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-42.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">秀珍菇  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">75.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-75.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1940.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1940.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">杏鮑菇  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">91.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-91.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">4873.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-4873.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">鴻禧菇  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">162.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-162.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">562.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-562.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">珊瑚菇  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">48.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-48.8</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">541.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-541.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">猴頭菇  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">74.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-74.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">27.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-27.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">柳松菇  &nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">145.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-145.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">256.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-256.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">其他菇類&nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">52.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-52.7</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2957.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-2957.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">鹹菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-26.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">8161.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-8161.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">雪里紅  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">18.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-18.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1970.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1970.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">榨菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">28.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-28.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2867.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-2867.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">蘿蔔乾  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-26.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1940.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1940.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">醃瓜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">24.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-24.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1350.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1350.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">熟筍    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">45.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-45.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">400.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-400.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">桶筍    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">64.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-64.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">260.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-260.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">筍茸    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-26.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">280.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-280.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">朴菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">25.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-25.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">144.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-144.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">其他    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">18.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">21.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-3.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -16.15
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">6782.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">96123.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-89341.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -92.94
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">蘿蔔    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">9.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">9.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-0.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -0.37
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">81049.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">227214.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-146165.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -64.33
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">胡蘿蔔  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">11.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">10.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">1.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      18.60
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">35220.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">136121.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-100901.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -74.13
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">馬鈴薯  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">20.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">21.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-0.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -4.36
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">21408.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">43714.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-22306.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -51.03
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">洋蔥    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">21.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">18.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">2.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      12.94
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">18720.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">71382.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-52662.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -73.77
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">青蔥    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">38.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">53.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-15.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -28.92
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">11444.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">70023.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-58579.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -83.66
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">韭菜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">27.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">29.2</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-2.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -7.18
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">4662.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">20461.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-15799.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -77.22
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">韭菜    &nbsp</td> 
+      <td width="10%">韭菜黃&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">123.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-123.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1658.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1658.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">韭菜    &nbsp</td> 
+      <td width="10%">韭菜花&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">75.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">83.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-8.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -9.82
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1286.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">4265.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-2979.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -69.85
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">大蒜    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">52.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">59.8</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-6.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -11.46
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">11965.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">34311.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-22346.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -65.13
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">竹筍    &nbsp</td> 
+      <td width="10%">麻竹筍&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">33.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-33.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3004.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-3004.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">竹筍    &nbsp</td> 
+      <td width="10%">綠竹筍&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">139.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-139.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">702.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-702.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">竹筍    &nbsp</td> 
+      <td width="10%">孟宗筍&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">250.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-250.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">60.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-60.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">竹筍    &nbsp</td> 
+      <td width="10%">烏殼綠&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">25.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-25.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">10526.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-10526.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">竹筍    &nbsp</td> 
+      <td width="10%">去殼&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">10.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-10.5</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3426.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-3426.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">萵苣莖  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">28.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">29.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-1.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -3.59
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">365.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1354.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-989.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -73.04
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">芋      &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">33.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">34.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-1.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -4.01
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">27108.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">43448.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-16340.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -37.61
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">荸薺    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">63.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-63.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1436.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-1436.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">豆薯    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-26.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3490.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-3490.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">牛蒡    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">26.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-26.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3130.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-3130.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">蓮藕    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">62.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-62.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2029.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-2029.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">甘薯    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">12.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">14.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-2.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -14.64
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">29998.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">73032.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-43034.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -58.92
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">薑      &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">71.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">67.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">3.2</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#FF0000">
+      4.67
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">13129.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">32477.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-19348.5</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -59.58
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">茭白筍  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">64.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-64.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">12144.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-12144.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">菱角    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">48.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-48.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">4314.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-4314.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">大心菜  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">16.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">16.5</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-0.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -0.63
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">26459.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">44639.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-18180.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -40.73
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">薯蕷    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">27.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">59.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-31.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -54.06
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">403.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">7298.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-6895.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -94.48
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">蘆筍    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">172.1</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-172.1</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">2603.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-2603.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">球莖甘藍&nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">7.3</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">8.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-1.4</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -16.62
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">32556.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">57929.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-25373.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -43.80
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">芽菜類  &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">15.6</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-15.6</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">26826.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-26826.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">百合    &nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">257.9</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-257.9</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">95.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-95.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%">晚香玉筍&nbsp</td> 
+      <td width="10%">&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">90.0</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-90.0</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">73.0</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-73.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -100.00
+        </font>
+      </td> 
+    </tr> 
+     
+    <tr> 
+      <td width="10%"><小計>&nbsp</td> 
+      <td width="10%">　&nbsp</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">16.4</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">21.7</td> 
+      <td width="8%" align="right" bgcolor="#CCFFFF">-5.3</td> 
+      <td width="10%" bgcolor="#CCFFFF" align="right">
+       
+        <font color="#0000FF">
+      -24.35
+        </font>
+      </td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">1252540.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">3661222.5</td> 
+      <td width="12%" align="right" bgcolor="#FFFFCC">-2408682.0</td> 
+      <td width="10%" align="right" bgcolor="#FFFFCC">
+       
+        <font color="#0000FF">
+      -65.79
+        </font>
+      </td> 
+    </tr> 
+     
+  </table> 
+ </div> 
+  
+<p align="center">
+  <font color="#800080">請使用瀏覽器工具列中</font><font size="4" color="#000080"><em>[上一頁]</em></font><font color="#800080">回到前一輸入條件畫面繼續查詢</font>
+</p> 
+</body> 
+</html> 
